@@ -1,6 +1,6 @@
 module github.com/rixocz/azure-law-sender
 
-go 1.21.1
+go 1.21
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.7.1
