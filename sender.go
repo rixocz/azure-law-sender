@@ -16,7 +16,3 @@ func main() {
 		log.Fatal(err)
 	}
 }
-
-func Send() {
-
-}
